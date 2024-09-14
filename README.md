@@ -1,6 +1,6 @@
 # What is Subreaker?
  ------------------------------------------------------------
-Subreaker is an passive information gathering tool. With this tool, subdomains can be scanned at the information gathering stage in web pentesting. Can be used for black-box pentesting.(Created for Bug Bounty Hunters.)
+Subreaker is a passive information gathering tool. Subdomains can be scanned at the information gathering stage in web pentesting and it can be used for black-box pentesting which generally encompasses bug bounty hunting.
 ![examples](https://user-images.githubusercontent.com/64712867/83596341-14f76f80-a56d-11ea-9f30-9f74cbe7dc8c.png)
 # How to install Subreaker?
 Clone subreaker's repository from remote server <br>
@@ -23,7 +23,6 @@ subreaker -d kali.org
 
 ![image](https://user-images.githubusercontent.com/64712867/83640432-c79ef080-a5b4-11ea-9c79-056c2cf6231e.png)
 
-# This program was written for kali linux. It has been tested and worked with windows OS. however, it can sometimes give errors or display complex subdomains.
 
 # 
 
